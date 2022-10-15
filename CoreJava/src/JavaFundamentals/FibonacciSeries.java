@@ -13,6 +13,7 @@ class FibonacciSeries {
 		int b=1;
 		System.out.println("Fabinocci Series Upto "+n+" is :-");
 		System.out.print(a+" ");
+		
 		System.out.print(b+" ");
 		
 		for(int i=2;i<=n;i++) {
